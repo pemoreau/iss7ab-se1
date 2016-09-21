@@ -1,5 +1,4 @@
 # TD gestion de versions
-====
 
 ## Utilisation de GitHub
 créer un compte sur http://github.com
