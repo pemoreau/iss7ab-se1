@@ -12,7 +12,7 @@ former des groupes de 3 et designer un chef
 
 créer un projet GIT (seul le chef le fait)
 
-le chef ajoute 2 fichiers.md (utilisez la syntax markdown par exemple), les commit et les push
+le chef ajoute 2 fichiers.md (utilisez la syntax [markdown](https://guides.github.com/features/mastering-markdown/) par exemple), les commit et les push
 
 le chef ajoute les autres membres de l'équipe dans le projet (settings->collaborators)
 
