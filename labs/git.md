@@ -3,7 +3,7 @@
 ## Utilisation de GitHub
 créer un compte sur http://github.com
 
-suivre le guide hello-world
+suivre le guide [hello-world](https://guides.github.com/activities/hello-world/)
 
 installer github desktop et récupérer les fichiers en local
 
