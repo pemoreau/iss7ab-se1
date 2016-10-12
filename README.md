@@ -8,6 +8,7 @@ Acquérir les connaissances et les compétences essentielles sur les méthodolog
 
 ## Systèmes de gestion de versions 
 **LAB**: [Git](https://github.com/pemoreau/se1-mines-nancy/blob/master/labs/git.md)
+**LAB**: [Git](https://github.com/pemoreau/iss7ab-se1/blob/master/labs/git.md)
 
 ## Outils de build
 
