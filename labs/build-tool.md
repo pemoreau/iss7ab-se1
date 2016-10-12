@@ -24,6 +24,7 @@ sur GitHub.
 Ecrire un fichier `build.xml` et `pom.xml` pour générer le projet avec ant et maven.
 Le gestionnaire de build doit notamment gérer la génération de la documentation
 et le déplacement des resources vers le répertoire de build.
+**Note :** vous pouvez télécharger Maven [ici](http://apache.mirrors.ovh.net/ftp.apache.org/dist/maven/maven-3/3.3.9/binaries/apache-maven-3.3.9-bin.zip)
 
 ## Etape 2
 
