@@ -7,10 +7,10 @@ Acquérir les bases techniques et théoriques nécessaires à une compréhension
 Acquérir les connaissances et les compétences essentielles sur les méthodologies et les outils de développement de logiciels.
 
 ## Systèmes de gestion de versions 
-**LAB**: [Git](https://github.com/pemoreau/se1-mines-nancy/blob/master/labs/git.md)
 **LAB**: [Git](https://github.com/pemoreau/iss7ab-se1/blob/master/labs/git.md)
 
 ## Outils de build
+**LAB**: [Git](https://github.com/pemoreau/iss7ab-se1/blob/master/labs/build-tool.md)
 
 ## Tests automatiques
 
