@@ -28,5 +28,6 @@ et le déplacement des resources vers le répertoire de build.
 # Etape 3
 
 Adapter le fichier pom.xml.
+
 NB : le site web http://www.mvnrepository.com permet de trouver des informations
 sur les librairies java gérer par maven. 
