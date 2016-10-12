@@ -10,7 +10,7 @@ Acquérir les connaissances et les compétences essentielles sur les méthodolog
 **LAB**: [Git](https://github.com/pemoreau/iss7ab-se1/blob/master/labs/git.md)
 
 ## Outils de build
-**LAB**: [Git](https://github.com/pemoreau/iss7ab-se1/blob/master/labs/build-tool.md)
+**LAB**: [Build tool](https://github.com/pemoreau/iss7ab-se1/blob/master/labs/build-tool.md)
 
 ## Tests automatiques
 
