@@ -9,7 +9,9 @@ afin de permettre la compilation avec les outils de build Ant ou Maven?
 
 Pour chacune des étapes suivantes, il faudra placer le dépôt dans l’état
 du commit correspondant. Cela peut être réalisé avec la commande :
+
 	git checkout ID
+
 L’identifiant du commit ID peut facilement être récupéré dans l’historique du projet 
 sur GitHub.
 
@@ -22,7 +24,8 @@ et le déplacement des resources vers le répertoire de build.
 # Etape 2
 
 1 - Récupérer le projet GitHub suivant et définir un fichier build.xml pour générer une archive ‘.jar’.
-	https://github.com/axet/jhlabs
+	[Git](https://github.com/axet/jhlabs)
+	
 2 - Adapter le fichier build.xml de l’étape 1 afin d’utiliser jhlabs comme un sous-projet.
 
 # Etape 3
