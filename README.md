@@ -13,7 +13,7 @@ Acquérir les connaissances et les compétences essentielles sur les méthodolog
 **LAB**: [Build tool](https://github.com/pemoreau/iss7ab-se1/blob/master/labs/build-tool.md)
 
 ## Tests automatiques
-**LAB**: [Build tool](https://github.com/pemoreau/iss7ab-se1/blob/master/labs/junit.md)
+**LAB**: [Automatic testing](https://github.com/pemoreau/iss7ab-se1/blob/master/labs/junit.md)
 
 ## Analyse statique de code
 
