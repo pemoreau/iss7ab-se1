@@ -28,5 +28,4 @@ indéterminé devrait alors se retrouver dans une feuille de l’arbre, la bonne
 	- Utiliser l’algorithme de la médiane des médianes pour obtenir une
 	construction plus efficace.
 ou à l’algorithme de quantification :
-	-  Algorithme de dithering par propagation d’erreur 
-		https://en.wikipedia.org/wiki/Floyd–Steinberg_dithering
+	-  Algorithme de dithering par propagation d’erreur ([wikipedia](https://en.wikipedia.org/wiki/Floyd–Steinberg_dithering))
