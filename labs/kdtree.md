@@ -33,5 +33,6 @@ Voici quelque amélioration pouvant être apporté à la structure de donnée:
 - Implémenter une recherche des k plus proches voisin.
 - Utiliser l’algorithme de la médiane des médianes pour obtenir une
 	construction plus efficace.
+
 ou à l’algorithme de quantification :
 - Algorithme de dithering par propagation d’erreur ([wikipedia](https://en.wikipedia.org/wiki/Floyd–Steinberg_dithering))
