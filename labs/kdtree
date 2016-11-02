@@ -1,9 +1,9 @@
+# KdTree
 
 L’objectif de ce TD est la familiarisation avec la structure de donnée KdTree.
 Pour ce faire nous allons mettre en place un algorithme que quantization
 d’image.
-Une base de code vous est fourni dans le dépôt GitHub suivant :
-https://github.com/czanni/KdTree
+Une base de code vous est fourni dans le dépôt [GitHub](https://github.com/czanni/KdTree)
 Il est conseillé d’effectuer un fork de ce dépôt git et de travailler sur votre
 propre branche tout en effectuant des commits régulièrement.
 
