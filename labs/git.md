@@ -31,7 +31,7 @@ une même ligne d'un même fichier est éditée en parallèle par 2 personnes
 
 modifiez par exemple le titre
 
-commit,p push
+commit, push
 
 essayez de résoudre le conflit
 
